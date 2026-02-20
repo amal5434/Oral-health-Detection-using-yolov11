@@ -1,0 +1,29 @@
+# YOLOv11 and Object Detection
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+
+# Web Framework (for app.py)
+streamlit>=1.28.0
+# OR if using Flask
+flask>=2.3.0
+pillow>=10.0.0
+
+# Data Processing and Analysis
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+pyyaml>=6.0
+tqdm>=4.66.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipython>=8.12.0
+
+# Optional: GPU Support (uncomment if needed)
+# cuda-toolkit>=12.0
+# cudnn>=8.0
